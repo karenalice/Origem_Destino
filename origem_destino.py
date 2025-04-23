@@ -3,11 +3,11 @@ import pyodbc
 import pandas as pd
 
 # Informações de conexão ao banco de dados Progress OpenEdge
-server_name = '10.21.16.153'
-database_name = 'sica'
-user_id = 'sysconfianca'
-password = 'qulwslBmtG4AxXn6'
-port = '6703'  # Porta do servidor
+server_name = 'seu servidor
+database_name = 'nome do DB'
+user_id = 'seu usuario'
+password = 'sua senha'
+port = 'porta'  # Porta do servidor
 
 # String de conexão ODBC ajustada
 connection_string = (
